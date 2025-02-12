@@ -14,6 +14,6 @@ order: 5
 
 📠 [+82 2-6280-7433](tel:+82262807433)
 
-📮 [jmkim@pukyong.ac.kr](mailto:jmkim@pukyong.ac.kr)
+📮 [jmkim@debian.org](mailto:jmkim@debian.org)
 
 🔑 [D3D7A23522B641FB78ACC775000001EFCF1A50FA](https://jmkim.kr/pgp)
