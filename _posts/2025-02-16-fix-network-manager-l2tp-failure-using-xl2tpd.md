@@ -16,9 +16,9 @@ However, at some point, I found that it no longer worked on my new Debian system
 
 After some investigation, this is what I discovered.
 
-### My System Configuration
-
-* **`network-manager-l2tp`** – L2TP NetworkManager
+> #### My System Configuration:
+>
+> * **`network-manager-l2tp`** – L2TP NetworkManager
 
 `network-manager-l2tp` uses **Strongswan** as the VPN backend and either **go-l2tp** or **xl2tpd** for the L2TP backend.
 
